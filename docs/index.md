@@ -25,6 +25,9 @@ or browse the [GitHub](https://github.com/tpetricek/FSharp.Formatting) repositor
 Documentation
 -------------
 
+    [lang=fsharp]
+    let s = "Hello"
+
 The documentation for this library is generated automatically (using the literate programming 
 tools that are built on top of it and are described in [literate programming page](demo.html).
 If you spot a typo, please submit a pull request! The source Markdown and F# script files are
